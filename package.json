@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "doc:dev": "vuepress dev docs",
+    "doc:build": "vuepress build docs",
+    "doc:deploy": "gh-pages -d docs/dist"
+  }
+}
