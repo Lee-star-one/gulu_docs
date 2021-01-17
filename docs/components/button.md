@@ -2,9 +2,8 @@
 title: button
 sidebarDepth: 2
 ---
-# 按钮
-使用方法
+# button按钮
 <ClientOnly>
-<button-demos>555</button-demos>
+<button-demos></button-demos>
 </ClientOnly>
  

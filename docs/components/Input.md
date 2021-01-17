@@ -1,4 +1,8 @@
 ---
 title: input
+sidebarDepth: 2
 ---
-# input
+# input文本框
+<ClientOnly>
+<input-demos></input-demos>
+</ClientOnly>

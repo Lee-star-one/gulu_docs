@@ -27,10 +27,16 @@ module.exports = {
       },
       { 
         title:'组件',
-        children:['/components/button',
-        '/components/grid',
+        children:[
+        '/components/button',
         '/components/Input',
-        '/components/layout',]
+        '/components/layout',
+        '/components/toast',
+        '/components/tabs',
+        '/components/collapse',
+        '/components/cascader',
+        '/components/slides',
+        '/components/nav',]
       },
     ],
   }

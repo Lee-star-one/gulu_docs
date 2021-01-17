@@ -20,51 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b225e191-f734-4356-9b1e-dd7f9efd1eab" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/input-demos.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/layout-demos.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/button-demos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/Input.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/Input.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/components/button.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/button.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/css/0.styles.6c8cd1d4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/10.4edf1310.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/11.57b0fcbe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/12.d9aca3f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/13.2c24af31.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/14.a3f2bf42.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/15.b405989c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/16.15fa2cbe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/17.3920f378.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/18.7e0c7d46.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/19.81739b37.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/2.4c6f89d6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/3.35607bfc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/4.69db6580.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/5.25bc03f5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/6.a9089c1e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/7.1663dac0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/8.fbb0415a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/9.5ea64c09.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/assets/js/app.dc8f31c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/Input.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/button.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/popover.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/tabs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/components/toast.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/get-started/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/install/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/install/macos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dist/install/windows.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/grid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/layout.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/components/layout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!Lee-star-one!gulu_docs.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!Lee-star-one!gulu_docs.git" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,16 +58,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-gulu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../复习" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ytqxingxingl\Desktop\gulu_docs\docs\.vuepress\components" />
       <recent name="C:\Users\ytqxingxingl\Desktop\gulu_docs" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gulu_docs/docs/.vuepress/components/demo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.demo.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,33 +106,61 @@
       <updated>1608602503881</updated>
       <workItem from="1608602505059" duration="74000" />
       <workItem from="1608602579833" duration="17310000" />
-      <workItem from="1608707012148" duration="4472000" />
+      <workItem from="1608707012148" duration="7882000" />
+      <workItem from="1608777650058" duration="15000" />
+      <workItem from="1608861907461" duration="13923000" />
+      <workItem from="1609079772794" duration="3562000" />
+      <workItem from="1609120125504" duration="3660000" />
+      <workItem from="1609207839611" duration="718000" />
+      <workItem from="1609383283525" duration="5579000" />
+      <workItem from="1609408568158" duration="99000" />
+      <workItem from="1609408720538" duration="32000" />
+      <workItem from="1609725912974" duration="3018000" />
+      <workItem from="1609813799713" duration="4872000" />
+      <workItem from="1609897354476" duration="13000" />
+      <workItem from="1609904551820" duration="6171000" />
+      <workItem from="1609984015507" duration="3803000" />
+      <workItem from="1610002528260" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1608707028203">
+    <state x="465" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608886168725">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608707028203" />
+    <state x="465" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608886168725" />
+    <state x="390" y="210" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1609408706226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="210" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1609408706226" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1609990185188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1609990185188" />
+    <state x="2552" y="147" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609402533763" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609408066018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1609408066018" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1608614436397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
