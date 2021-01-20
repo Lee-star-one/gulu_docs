@@ -26,7 +26,7 @@ module.exports = {
       ]
       },
       { 
-        title:'组件',
+        title:'基础组件',
         children:[
         '/components/button',
         '/components/Input',
@@ -37,6 +37,13 @@ module.exports = {
         '/components/cascader',
         '/components/slides',
         '/components/nav',]
+      },
+      { 
+        title:'地图组件',
+        children:[
+        '/components/map',
+        '/components/layer',
+        '/components/marker',]
       },
     ],
   }

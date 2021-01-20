@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "element-ui": "^2.14.1",
-    "test_gulu_lee": "^0.1.2"
+    "test_gulu_lee": "^0.1.6"
   }
 }

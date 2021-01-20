@@ -9,8 +9,8 @@
 <script>
 import Vue from "vue"
 import "test_gulu_lee/dist/gulu.css"
-import {Button,plugin} from "test_gulu_lee"
-Vue.use(plugin)
+import {Button,Plugin} from "test_gulu_lee"
+Vue.use(Plugin)
 export default {
   name:"toast-demos",
   components:{
